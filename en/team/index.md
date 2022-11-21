@@ -17,4 +17,4 @@ section: team
 {% include_relative _members/owain-jenkins.md %}
 {% include_relative _members/poppy_evans.md %}
 {% include_relative _members/sam.md %}
-{% include_relative _members/sîana-mainwaring.md %}
+{% include_relative _members/siana-mainwaring.md %}
