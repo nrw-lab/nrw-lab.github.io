@@ -1,14 +1,14 @@
 # Matt Lucht
 
-## What we do
+## Yr hyn a wnawn
 
-I’m a delivery shaped person working with CDPS on the Labs project. 
+Rwy'n berson cyflawni yn gweithio gyda CDPS ar y prosiect Labs.
 
-## Why we’re here
 
-I’m interested to see how whether the idea of a series of practical, hands-on labs sessions will provide a useful learning experience, and what is needed to ensure these ways of working survive going back into the day-by-day working.
+## Pam ydym ni yma? 
+Mae gen i ddiddordeb mewn gweld a fydd y syniad o gyfres o sesiynau labordy ymarferol yn darparu profiad dysgu defnyddiol, a beth sydd ei angen i sicrhau bod y ffyrdd hyn o weithio yn goroesi wrth fynd yn ôl i weithio o ddydd i ddydd.
 
-## Links to other stuff
+## Dolenni i bethau eraill
 
 * [My twitter](https://twitter.com/mattlucht)
-* [Where you cringe at my record collection](https://www.discogs.com/user/mattlucht) 
+* [Lle rydych chi'n crinjo ar fy nghasgliad recordiau](https://www.discogs.com/user/mattlucht) 
