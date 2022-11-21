@@ -1,2 +1,3 @@
 Laura Morris
-I’m a Content Designer for Natural Resources Wales. I aim to write user centred content that helps people find what they need on our website, quickly and easily. 
+
+Rydw i'n ddylunydd cynnwys i Gyfoeth Naturiol Cymru. Rwy'n anelu at ysgrifennu cynnwys sy'n canolbwyntio ar ddefnyddwyr, a bydd yn helpu pobl i ddod o hyd i'r hyn sydd ei angen arnynt ar ein gwefan, yn gyflym ac yn hawdd. 
