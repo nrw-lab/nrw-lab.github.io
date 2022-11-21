@@ -1,3 +1,3 @@
-I’m leading the [Learn by Making lab experiment for CDPS](https://learnbymaking.wales).  I’m interested in whether it’s possible to create an environment where people can come together to learn by making things. 
+Rwy’n arwain arbrawf lab [Dysgu trwy greu](https://learnbymaking.wales) ar gyfer CDPS. Mae diddordeb gen i ddarganfod a yw’n bosib creu amgylchedd lle mae pobl yn dod at ei gilydd i greu pethau. 
 
-I’m [@itsallgonewrong](https://twitter.com/itsallgonewrong) on Twitter and I write the occasional work related stuff at [https://jamiearnold.com](https://jamiearnold.com)
+Fy enw yw [@itsallgonewrong](https://twitter.com/itsallgonewrong) ar Twitter, ac rwy’n ysgrifennu ambell i ddarn yn ymwneud â gwaith ar [https://jamiearnold.com](https://jamiearnold.com)
