@@ -6,8 +6,6 @@ hidetitle: True
 section: team
 ---
 
-# The team
-
 {% include_relative _members/alaw-john.md %}
 {% include_relative _members/colm-britton.md %}
 {% include_relative _members/gabi.md %}
