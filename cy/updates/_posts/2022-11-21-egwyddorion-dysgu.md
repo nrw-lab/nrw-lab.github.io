@@ -1,7 +1,7 @@
 ---
 title: Egwyddorion dysgu
 layout: post
-lang: en
+lang: cy
 ref: learning-principles
 hidetitle: True
 author: Lucinda
