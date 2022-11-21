@@ -10,5 +10,5 @@ Mae gen i ddiddordeb mewn gweld a fydd y syniad o gyfres o sesiynau labordy ymar
 
 ## Dolenni i bethau eraill
 
-* [My twitter](https://twitter.com/mattlucht)
+* [Fy Trydar](https://twitter.com/mattlucht)
 * [Lle rydych chi'n crinjo ar fy nghasgliad recordiau](https://www.discogs.com/user/mattlucht) 
