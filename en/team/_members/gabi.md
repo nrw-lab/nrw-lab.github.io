@@ -4,4 +4,4 @@ I am a Senior User Researcher at CDPS, it’s my role to make things user-centre
 
 I am excited to learn more about what the problems look like on the ground and how ‘making’ can give people tools to put UCD into practice! 
 
-[Twitter]: (http://Twitter.com/gabim_e) 
+[Twitter]:(http://Twitter.com/gabim_e) 
