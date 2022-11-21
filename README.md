@@ -1,4 +1,4 @@
-# project-site-template
+# NRW lab site
 
 This is a template repo.
 
