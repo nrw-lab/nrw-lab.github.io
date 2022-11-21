@@ -10,5 +10,5 @@ I’m interested to see how whether the idea of a series of practical, hands-on 
 
 ## Links to other stuff
 
-[My twitter](https://twitter.com/mattlucht)
+[My twitter](https://twitter.com/mattlucht) >
 [Where you cringe at my record collection](https://www.discogs.com/user/mattlucht) 
