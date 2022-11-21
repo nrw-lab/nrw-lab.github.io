@@ -1,5 +1,5 @@
 Alaw John
 
-I am the Welsh translator at CDPS. I translate the organisations’ material, I educate people on why we comply with Welsh language Standards, and try to improve the Welsh language services across the country. 
+Fy swydd i yw cyfieithydd y Gymraeg yn CDPS. Dwi'n cyfieithu deunydd y sefydliad, dwi'n addysgu pobl ynglŷn â pham ein bod ni'n cydymffurfio â Safonau'r Gymraeg, ac yn ceisio gwella gwasanaethau Cymraeg ar draws y wlad. 
 
-Since joining CDPS in August, I’ve learnt something new every day. Labs is no exception. It’s an opportunity to get out of my comfort zone, immerse myself in new learnings, gain knowledge and create new connections with different people. 
+Ers ymuno â CDPS ym mis Awst, dwi wedi dysgu rhywbeth newydd bob dydd. Nid yw'r cyfres o labordai yma'n eithriad. Mae'n gyfle i mi brofi rhywbeth newydd, ennyn sgiliau, ennill gwybodaeth a chreu cysylltiadau newydd gyda gwahanol bobl. 
