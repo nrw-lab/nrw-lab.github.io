@@ -1,2 +1,2 @@
 # Owain
-Digital (Technical) Officer for Natural Resources Wales. Manage the day to day BAU on boh the website and Intranet. Assisting the team and wider staff of the technical side of the content on the pages and advising on accessibility for both web content (including website functionality) and documents. 
+ Swyddog Digidol (Technegol) Cyfoeth Naturiol Cymru. Rheoli'r BFA o ddydd i ddydd ar y wefan a'r fewnrwyd. Cynorthwyo’r tîm a staff ehangach gydag ochr dechnegol y cynnwys ar y tudalennau a chynghori ar hygyrchedd cynnwys gwe (gan gynnwys ymarferoldeb gwefan) a dogfennau.
