@@ -1,3 +1,3 @@
 Lucinda
-Digital Content Officer for Natural Resources Wales
-Writers block sufferer
+Swyddog Cynnwys Digidol Cyfoeth Naturiol Cymru
+dioddef o 'writers block'
