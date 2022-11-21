@@ -1,7 +1,7 @@
 # **Gabi Mitchem-Evans**
 
-I am a Senior User Researcher at CDPS, it’s my role to make things user-centred. Within labs I aim to share some light-touch ways for teams to apply research and design to their work, and help them put people at the heart of problem solving. 
+Rwy'n Uwch Ymchwilydd Defnyddwyr yn CDPS, fy rôl yw sicrhau bod popeth yn canolbwyntio ar y defnyddiwr. Rwy'n anelu at rannu ffyrdd cynnil i dimau gymhwyso ymchwil a dylunio i'w gwaith o fewn labs, a'u helpu i roi defnyddwyr wrth galon datrys problemau. 
 
-I am excited to learn more about what the problems look like on the ground and how ‘making’ can give people tools to put UCD into practice! 
+Rwy'n gyffrous i ddysgu mwy am sut mae'r problemau'n edrych i ddefnyddwyr, a sut all 'creu' cynnig yr offer cywir i bobl roi UCD ar waith! 
 
-You can follow me on Twitter [here](http:/Twitter.com/gabim_e) 
+Gallwch ddilyn fi ar Twitter [yma](http:/Twitter.com/gabim_e) 
