@@ -1,5 +1,5 @@
-Colm Britton - Designer
+Colm Britton - Dylunydd
 
-I am here to help people experience digital service delivery by making things
+Rydw i yma i helpu pobl i brofi cyflenwi gwasanaethau digidol drwy greu pethau.
 
-I hope to learn about the content and sessions we have created. If they work for people. If people like them and learn things. And what we should change.
+Rwy'n gobeithio dysgu am y cynnwys a'r sesiynau rydyn ni wedi'u creu, yn arbennig: Os ydyn nhw'n gweithio i bobl. Os yw pobl yn eu hoffi ac yn dysgu pethau. A'r hyn y dylem ei newid.
