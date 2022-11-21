@@ -8,4 +8,4 @@ section: team
 
 # The team
 
-{% include_relative _members/team-member-1.md %}
+{% include_relative _members/colm-britton.md %}
