@@ -1,3 +1,4 @@
-Content designer at Natural Resource Wales (NRW). I work in teams across NRW on improving services for users and solving messy content problems. 
+Dylunydd cynnwys yn Cyfoeth Naturiol Cymru (CNC). Rwy’n gweithio mewn timau ar draws CNC ar wella gwasanaethau i ddefnyddwyr a datrys problemau cynnwys anniben
 
-I'm looking forward to exploring, learning, making and reflecting.
+Rwy'n edrych ymlaen at archwilio, dysgu, gwneud a myfyrio.
+
