@@ -8,6 +8,6 @@
   max-width: var(--content-width);
   
   @include mq($from: tablet) {
-    padding: $gutter;
+    padding: ($gutter * 1.5) $gutter;
   }
 }
