@@ -1,4 +1,4 @@
-# **Gabi Mitchem-Evans**
+### Gabi Mitchem-Evans
 
 I am a Senior User Researcher at CDPS, it’s my role to make things user-centred. Within labs I aim to share some light-touch ways for teams to apply research and design to their work, and help them put people at the heart of problem solving. 
 

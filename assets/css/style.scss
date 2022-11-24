@@ -70,6 +70,9 @@ $palette: (
 @import "app-header";
 @import "buttons";
 
+// add small bits of css to the custom.scss file
+@import "custom";
+
 :root {
   --theme-colour: {{ theme }};
   --accent-colour: {{ accent }};
