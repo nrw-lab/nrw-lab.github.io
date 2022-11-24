@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: learning-principles
 hidetitle: True
-author: Owain
+author: Owain, Samantha, Lucinda and Laura
 ---
 
 ## 1. We got to know each other
