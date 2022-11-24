@@ -40,10 +40,10 @@ This helped us create a menu to meet users’ needs.
 ## 4. We created a service blueprint
 
 To map out the user journey we created a service blueprint. It included:
-*	What the user does
-*	What the user sees
-*	What the user doesn’t see
-*	What supports the service
+*	what the user does
+*	what the user sees
+*	what the user doesn’t see
+*	what supports the service
 
 This helped us map out the service end to end and identify potential pain points. 
 
