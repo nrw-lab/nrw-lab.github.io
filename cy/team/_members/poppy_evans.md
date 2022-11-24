@@ -1,1 +1,3 @@
+### Poppy Evans
+
 Rwy'n Rheolwr Cyflawni Cydymaith yn CDPS. Mae fy rôl yn ymwneud â rheoli cyflawni mewn prosiectau, yn benodol prosiectau sydd wedi'u lleoli yn y sector cyhoeddus yng Nghymru ac sy'n anelu at ddatblygu a gwella gwasanaethau cyhoeddus yng Nghymru. Rwyf ar hyn o bryd yn hyfforddi i fod yn rheolwr cyflawni ac yn dysgu am weithio ystwyth a rheoli prosiectau. Trwy fynychu Labs fy nod yw gwella fy ngwybodaeth am sgiliau gweithio ystwyth a rheoli prosiect. Rwyf hefyd yn anelu at weithio ar y cyd â thîm i ddatblygu cynnyrch a defnyddio'r profiad hwn i gymhwyso egwyddorion a dulliau gweithio ystwyth yr wyf yn dysgu amdanynt. Mae gen i ddiddordeb mewn dysgu am sut i ddatblygu cynnyrch sy'n seiliedig ar ddefnyddwyr.

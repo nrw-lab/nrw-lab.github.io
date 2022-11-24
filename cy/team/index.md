@@ -6,6 +6,30 @@ hidetitle: True
 section: team
 ---
 
+# The NRW labs team
+
+
+## Cwrdd â'r tîm
+{: .app-section-header}
+
+{% include_relative _members/laura-morris.md %}
+
+---
+
+{% include_relative _members/lucinda-pierce.md %}
+
+---
+
+{% include_relative _members/owain-jenkins.md %}
+
+---
+
+{% include_relative _members/sam.md %}
+
+
+## Cwrdd â'r cymdeithion
+{: .app-section-header}
+
 {% include_relative _members/alaw-john.md %}
 
 ---
@@ -26,19 +50,7 @@ section: team
 
 ---
 
-{% include_relative _members/laura-morris.md %}
-
----
-
-{% include_relative _members/lucinda-pierce.md %}
-
----
-
 {% include_relative _members/matt-lucht.md %}
-
----
-
-{% include_relative _members/owain-jenkins.md %}
 
 ---
 
@@ -46,9 +58,4 @@ section: team
 
 ---
 
-{% include_relative _members/sam.md %}
-
----
-
 {% include_relative _members/siana-mainwaring.md %}
-
