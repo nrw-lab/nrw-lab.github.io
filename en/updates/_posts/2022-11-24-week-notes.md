@@ -51,4 +51,4 @@ This helped us map out the service end to end and identify potential pain points
 
 Each group chose a problem and prototyped a solution using lego and other props. This helped simulate how the service might play out during the festival.
 
-![](https://github.com/nrw-lab/nrw-lab.github.io/blob/main/images/desktop%20walkthrough%20one.png) ![](https://github.com/nrw-lab/nrw-lab.github.io/blob/main/images/desktop%20walkthrough%20two.jpg=339x255)
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/93e48c6ac79d242459d1a7f927948b6dec8d6777/images/desktop%20walkthrough%20one.png?raw=true) ![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/93e48c6ac79d242459d1a7f927948b6dec8d6777/images/desktop%20walkthrough%20two.jpg?raw=true)
