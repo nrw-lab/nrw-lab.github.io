@@ -2,7 +2,7 @@
 title: Week notes 24/11/2022
 layout: post
 lang: en
-ref: learning-principles
+ref: 2022-11-24-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
 ---
