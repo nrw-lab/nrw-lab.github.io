@@ -1,12 +1,11 @@
 ---
+title: The NRW labs team
 layout: page
 lang: en
 ref: team-page
 hidetitle: True
 section: team
 ---
-
-# The NRW labs team
 
 We are a collective of people learning about applying digital in practice and learning how to develop digital skills by making.
 

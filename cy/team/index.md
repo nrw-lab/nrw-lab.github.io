@@ -1,13 +1,11 @@
 ---
+title: Y tîm lab nrw
 layout: page
 lang: cy
 ref: team-page
 hidetitle: True
 section: team
 ---
-
-# The NRW labs team
-
 
 ## Cwrdd â'r tîm
 {: .app-section-header}
