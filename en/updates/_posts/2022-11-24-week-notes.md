@@ -1,5 +1,5 @@
 ---
-title: Learning by making - CDPS and NRW
+title: Week notes 24/11/2022
 layout: post
 lang: en
 ref: learning-principles
