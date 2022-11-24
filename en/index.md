@@ -11,7 +11,7 @@ This is the pilot for a labs project sponsored by the [Centre for Digital Public
 
 ### Who are we?
 
-We’re a [team](link to your team members page here) from [Natural Resources Wales](https://naturalresources.wales/?lang=en) (NRW)... [write a bit more about what you all do]
+We’re a [team](/en/team) from [Natural Resources Wales](https://naturalresources.wales/?lang=en) (NRW)... [write a bit more about what you all do]
 
 ### What are we hoping to learn from this experience?
 
