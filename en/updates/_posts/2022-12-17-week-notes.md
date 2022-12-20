@@ -62,7 +62,7 @@ When we’ve run usability testing over the last 5 years, users have struggled t
 
 After 8 days of blood, sweat and post-it notes, it was time to show people what we had been working on. With only a couple of hours to pull everything together into a presentation for the NRW Digital Governance Board, it was a pressure cooker situation.
 
-Here’s Sam and Lucinda working on the presentation!
+Here’s Sam and Lucinda working on the presentation...
 
 ![alt text]((https://github.com/nrw-lab/nrw-lab.github.io/blob/affab53f60de8a2881a3fd8a6330abe0529ce7be/images/Sam-Lucinda.jpg)?raw=true)
 
@@ -72,4 +72,4 @@ We think it went well. There were some really positive comments and some questio
 
 ## Just an experiment
 
-So, we’ve had space to experiment and work collaboratively to explore a problem in an agile way - in line with the [Digital Service Standards for Wales](https://digitalpublicservices.gov.wales/resources/digital-service-standards/). Together with everything we’ve learned from our awesome speakers, we have tons of energy and renewed enthusiasm. And although the lab and our work with CDPS colleagues on this has ended, we could continue exploring this problem - NRW has the skills to do it! 
+So, we’ve had space to experiment and work collaboratively to explore a problem in an agile way - in line with the [Digital Service Standards for Wales](https://digitalpublicservices.gov.wales/resources/digital-service-standards/). Together with everything we’ve learned from our awesome speakers, we have tons of energy and renewed enthusiasm. And although the lab and our work with CDPS colleagues on this has ended, we could continue exploring this problem - NRW has the skills to do it.
