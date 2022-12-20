@@ -28,6 +28,8 @@ This is something we really want to practise and make part of our work every day
 
 We even got a copy of his fantastic book….so no excuses.
 
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/0252594b93f1d464cc9eba62479cb8c084a854fe/images/giles%20book.jpg)
+
 You can [read more about Giles](https://gilest.org/) - go on!
 
 ## We tested the prototype
