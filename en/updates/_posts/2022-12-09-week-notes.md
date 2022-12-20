@@ -40,6 +40,6 @@ As well as showing how we can use interactive components instead of flat content
 
 ## Other stuff we did that week
 
-We had a Christmas party. This is a next-day picture of us (minus Shaun as he was behind the camera) on Constitution Hill in Aberystwyth. We were enjoying the fresh air and discussing NRW’s pre-application services (honestly, we really were!):
+We had a Christmas party. This is a next-day picture of us (minus Shaun as he was behind the camera) on [Constitution Hill in Aberystwyth](https://www.visitwales.com/attraction/train/aberystwyth-cliff-railway-1404349). We were enjoying the fresh air and discussing NRW’s pre-application services (honestly, we really were!):
 
 Constitution Hill is the site of Britain’s second longest funicular railway, by the way.
