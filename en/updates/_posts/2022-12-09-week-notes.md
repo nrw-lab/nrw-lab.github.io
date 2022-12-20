@@ -42,6 +42,6 @@ As well as showing how we can use interactive components instead of flat content
 
 We had a Christmas party. This is a next-day picture of us (minus Shaun as he was behind the camera) on [Constitution Hill in Aberystwyth](https://www.visitwales.com/attraction/train/aberystwyth-cliff-railway-1404349). We were enjoying the fresh air and discussing NRW’s pre-application services (honestly, we really were!):
 
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/165765d936751378e6c22f7e49df1777ec21af2e/images/digtal-team.jpg)
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/165765d936751378e6c22f7e49df1777ec21af2e/images/digtal-team.jpg?raw=true)
 
 Constitution Hill is the site of Britain’s second longest funicular railway, by the way.
