@@ -23,6 +23,7 @@ Helpodd Richard ni i sylweddoli mai perchnogaeth cynnyrch yw ein ffrind – i wn
 ## Archwilio rhai o'n heriau
 
 Roedd gennyn ni dunelli o ddata defnyddwyr CNC gan gynnwys cofnodion galwadau, adborth defnyddwyr, canlyniadau profion defnyddioldeb cynharach, negeseuon e-bost, mapiau gwres a dadansoddeg. Gyda chylch gwaith eang, mae gan CNC lawer o feysydd gwaith – rhai yn gorgyffwrdd – a llawer o heriau i ddefnyddwyr.
+
 Gwnaethon ni dreulio amser yn edrych ar y data er mwyn nodi meysydd i ganolbwyntio arnynt. Fe benderfynon ni ganolbwyntio ar y gwasanaeth ‘caniatâd i wneud rhywbeth ar ein tir’. Roedden ni’n gwybod ei fod yn wasanaeth poblogaidd ac roedd gennyn ni dystiolaeth bod defnyddwyr yn cael trafferth dod o hyd i wybodaeth a chwblhau ceisiadau. Roedd yn bwysig ein bod yn gallu llunio prototeip ar gyfer rhywbeth o fewn amserlen y labordy ac, o gymharu â heriau eraill CNC, roedden ni’n teimlo mai 'caniatâd' oedd y gwasanaeth symlaf i ganolbwyntio arno. 
 
 ## Hygyrchedd a dyluniad cynhwysol gydag Alistair Duggin
