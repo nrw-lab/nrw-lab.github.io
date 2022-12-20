@@ -19,10 +19,10 @@ Giles gave a fab masterclass in agile comms and how to clearly and creatively wo
 
 When we’ve tried to work weeknotes and blogs in the open in the past we have agonised over what to say and how to say it. But Giles encouraged us to:
 
-** be brave
-** less planning and more publishing when we have something to say or show
-** relax and don’t worry about sounding corporate - just be ourselves
-** show the thing - collect pictures / screenshots / quotes to show people
+* be brave
+* less planning and more publishing when we have something to say or show
+* relax and don’t worry about sounding corporate - just be ourselves
+* show the thing - collect pictures / screenshots / quotes to show people
 
 This is something we really want to practise and make part of our work every day. 
 
