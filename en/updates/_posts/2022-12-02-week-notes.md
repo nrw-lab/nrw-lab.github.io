@@ -9,13 +9,16 @@ author: Owain, Samantha, Lucinda and Laura
 
 ## Product thinking with Richard Pope
 
-Our second fantastic speaker was Richard Pope. Richard worked as product manager for the first version of GOV.UK.
+Our second fantastic speaker was Richard Pope. [Richard worked as product manager for the first version of GOV.UK](https://richardpope.org/).
+
 Focusing on how they moved from 74000 pages on DirectGov to a user-focused 3000 page GOV.UK, we learned that the team:
+
 * printed tons of pages from DirectGov
 * considered looking at analytics on what was being used and what wasn’t
 * looked for patterns
 * created groupings
 * thought about how you design the best possible thing to met a user need - sometimes interactive, sometimes flat content
+* 
 Richard helped us realise that product ownership is our friend - to make sure that somebody owns it or we have delivery without vision. And always ‘show, don’t tell’, as making helps us think and explain.
 
 ## Exploring some of our challenges
