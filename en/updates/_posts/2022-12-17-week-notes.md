@@ -28,7 +28,7 @@ This is something we really want to practise and make part of our work every day
 
 We even got a copy of his fantastic book….so no excuses! 
 
-You can read more about Giles - go on!
+You can [read more about Giles](https://docs.google.com/document/u/0/d/1WseTcTRlaGvn-RpmmL80Bl4JwXnvkz_i_08l5wya_08/edit) - go on!
 
 ## We tested the prototype
 
