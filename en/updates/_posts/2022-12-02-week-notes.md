@@ -42,6 +42,8 @@ Al gave us lots to think about including:
 * most of it is up-front design - there is a misconception that accessibility is a developer’s job
 * when creating a new service, map it out end to end and run your accessibility personas through it to identify pain points
 
+[Follow Al Duggin, he's awesome.](https://twitter.com/dugboticus)
+
 ## Exploring potential ideas to meet some of the prioritised user needs
 We did a round of ‘crazy eights’ - eight minutes to think of and sketch out eight different ideas.
 We shared lots of the ideas including:
