@@ -11,7 +11,7 @@ author: Owain, Samantha, Lucinda and Laura
 
 We were like kids on Christmas morning when Sarah Winters joined us at our Lab.  
 
-If you don’t know super Sarah Winters, [Sarah invented content design as a discipline] https://medium.com/ux-and-front-end-interviews/why-content-design-matters-an-interview-with-sarah-richards-a9ad0de3c37a while at GDS. We were beaming.
+If you don’t know super Sarah Winters, [Sarah invented content design as a discipline](https://medium.com/ux-and-front-end-interviews/why-content-design-matters-an-interview-with-sarah-richards-a9ad0de3c37a) while at GDS. We were beaming.
 
 When Sarah described the old publishing model at DirectGov - what the organisation wanted to say rather than what users needed to know - we couldn’t have nodded along more! We might not have a 74,000 page website as DirectGov did before it was transformed into 3000 page GOV.UK, but ours isn’t far off - and it keeps growing.  
  
