@@ -55,7 +55,7 @@ Nododd y profion rai themâu cryf am y gwasanaeth presennol, yn eu plith:
 
 Drwy brofi ein prototeip, mae gennyn ni bellach rywfaint o dystiolaeth y gall cynnwys rhyngweithiol weithio'n dda i ddefnyddwyr. Mae'n rhoi atebion iddyn nhw yn gyflym. Gallen ni ailadrodd y prototeip hwnnw yn seiliedig ar yr hyn yr ydyn ni wedi'i ddysgu; dal ati i brofi a mireinio – mae'n ddull sydd â llawer o botensial i ddefnyddwyr CNC.
 
-Pan rydyn ni wedi cynnal profion defnyddioldeb dros y pum mlynedd diwethaf, mae defnyddwyr wedi cael trafferth i gwblhau tasgau oherwydd bod y cynnwys yn rhy fanwl ac wedi'i ysgrifennu o safbwynt CNC. 
+Pan rydyn ni wedi cynnal profion defnyddioldeb dros y pum mlynedd diwethaf, mae defnyddwyr wedi cael trafferth i gwblhau tasgau oherwydd bod y [cynnwys yn rhy fanwl ac wedi'i ysgrifennu o safbwynt CNC.](https://gwasanaethaucyhoeddusdigidol.llyw.cymru/dim-gwastraff-datguddior-cynnwys-y-mae-ei-angen-ar-ddefnyddwyr-yn-un-o-wasanaethau-cyfoeth-naturiol-cymru/?_gl=1*rdxtfp*_ga*ODY0NjI3NTA4LjE2NzExMTQ0MTA.*_ga_HKYTNYNSKE*MTY3MTU3MjY0NC40LjEuMTY3MTU3MjY0NC4wLjAuMA..)
 
 ## Amser i ddangos a dweud
 
@@ -71,4 +71,4 @@ Rydyn ni'n meddwl iddo fynd yn dda. Cafwyd rhai sylwadau cadarnhaol iawn a rhai 
 
 ## Dim ond arbrawf
 
-Felly, rydyn ni wedi cael lle i arbrofi a chydweithio i archwilio problem mewn ffordd ystwyth – yn unol â Safonau Gwasanaeth Digidol Cymru. Ynghyd â phopeth yr ydyn ni wedi'i ddysgu gan ein siaradwyr gwych, mae gennyn ni lawer o egni a brwdfrydedd o'r newydd. Ac er bod y labordy a'n gwaith gyda chydweithwyr y Ganolfan Gwasanaethau Cyhoeddus Digidol ar hyn wedi dod i ben, gallen ni barhau i archwilio'r broblem hon – mae gan CNC y sgiliau i'w gwneud! 
+Felly, rydyn ni wedi cael lle i arbrofi a chydweithio i archwilio problem mewn ffordd ystwyth – yn unol â [Safonau Gwasanaeth Digidol Cymru](https://gwasanaethaucyhoeddusdigidol.llyw.cymru/adnoddau/safonau-gwasanaeth-digidol/). Ynghyd â phopeth yr ydyn ni wedi'i ddysgu gan ein siaradwyr gwych, mae gennyn ni lawer o egni a brwdfrydedd o'r newydd. Ac er bod y labordy a'n gwaith gyda chydweithwyr y Ganolfan Gwasanaethau Cyhoeddus Digidol ar hyn wedi dod i ben, gallen ni barhau i archwilio'r broblem hon – mae gan CNC y sgiliau i'w gwneud! 
