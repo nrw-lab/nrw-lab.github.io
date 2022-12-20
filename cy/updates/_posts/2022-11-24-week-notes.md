@@ -2,7 +2,7 @@
 title: Nodiadau wythnos 24/11/2022
 layout: post
 lang: cy
-ref: 2022-11-24-week-notes
+ref: 2022-11-24-nodiadau-wythnos
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
 ---
