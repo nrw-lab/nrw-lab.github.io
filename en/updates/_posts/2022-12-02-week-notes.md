@@ -28,11 +28,11 @@ We spent time looking at the data to draw out areas to focus on. We decided to f
 A morning with awesome Al filled us with enthusiasm for designing accessible services. 
 Al brought elements of his empathy lab so we could experience a small part of the day as someone with visual difference, including macular degeneration, tunnel vision and peripheral vision loss.
 
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/empathy%20lab.jpg) ![alt text]
+(https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/empathy%20lab.jpg)
 
 Using the GDS’ accessibility personas, we did a grid exercise together. We plotted who in a typical digital team would be responsible for what and when.
 
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/grid%20exercise.jpg) ![alt text]
+(https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/grid%20exercise.jpg)
 
 Al gave us lots to think about including:
 * build in accessibility from the start
@@ -49,9 +49,9 @@ We shared lots of the ideas including:
 * using maps to identify locations and routes
 * using a decision tree/ triaging
 
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/idea%20generation.jpg) ![alt text]
+(https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/idea%20generation.jpg)
 
 We chose one of our ideas, quickly created it as a service map and presented it to the lab team, including Richard and Alistair. We talked about some of the accessibility challenges of maps.
 
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/user%20flows.jpg) ![alt text]
-![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/user%20flows%202.jpg) ![alt text]
+(https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/user%20flows.jpg)
+(https://github.com/nrw-lab/nrw-lab.github.io/blob/a779645fc312a349fa97200ee19df3fa5b023ff8/images/user%20flows%202.jpg)
