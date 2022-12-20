@@ -42,4 +42,6 @@ Yn ogystal â dangos sut y gallwn ddefnyddio cydrannau rhyngweithiol yn hytrach 
 
 Cawson ni barti Nadolig. Dyma lun diwrnod nesaf ohonon ni (heb Shaun oherwydd yr oedd y tu ôl i'r camera) ar Graig-glais. Roedden ni’n mwynhau’r awyr iach ac yn trafod gwasanaethau cyn-ymgeisio CNC (wir yr! roedden ni wir!):
 
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/0073c63b98952ba7085170371dab4bc2d0763182/images/digtal-team.jpg?raw=true)
+
 Craig-glais yw safle rheilffordd halio hiraf Prydain namyn un, gyda llaw.
