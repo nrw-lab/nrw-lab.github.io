@@ -32,7 +32,11 @@ We spent time looking at the data to draw out areas to focus on. We decided to f
 A morning with awesome Al filled us with enthusiasm for designing accessible services. 
 Al brought elements of his empathy lab so we could experience a small part of the day as someone with visual difference, including macular degeneration, tunnel vision and peripheral vision loss.
 
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/037139cd68730cb622450fc36430e5b8c3a016de/images/empathy%20lab.jpg?raw=true)
+
 Using the GDS’ accessibility personas, we did a grid exercise together. We plotted who in a typical digital team would be responsible for what and when.
+
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/037139cd68730cb622450fc36430e5b8c3a016de/images/grid%20exercise.jpg?raw=true)
 
 Al gave us lots to think about including:
 * build in accessibility from the start
@@ -51,4 +55,10 @@ We shared lots of the ideas including:
 * using maps to identify locations and routes
 * using a decision tree/ triaging
 
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/037139cd68730cb622450fc36430e5b8c3a016de/images/idea%20generation.jpg?raw=true)
+
 We chose one of our ideas, quickly created it as a service map and presented it to the lab team, including Richard and Alistair. We talked about some of the accessibility challenges of maps.
+
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/037139cd68730cb622450fc36430e5b8c3a016de/images/user%20flows.jpg?raw=true)
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/037139cd68730cb622450fc36430e5b8c3a016de/images/user%20flows%202.jpg?raw=true)
+
