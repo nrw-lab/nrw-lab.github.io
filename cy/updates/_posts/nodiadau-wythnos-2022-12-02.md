@@ -1,8 +1,8 @@
 ---
-title: Nodadiau wythnos 02/121/2022
+title: Nodadiau wythnos 02/12/2022
 layout: post
 lang: cy
-ref: 2022-121-02-nodiadau-wythnos
+ref: 2022-12-02-nodiadau-wythnos
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
 ---
