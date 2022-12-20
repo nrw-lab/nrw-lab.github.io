@@ -40,6 +40,10 @@ We made notes while our 3 testers talked through their experiences of the ‘per
 
 Users said the prototype was simple and clear. They said they liked being told whether they needed to apply for permission. They had different approaches to telling us what land they wanted to do something on from grid references to What 3 Words and they liked the idea of an interactive map.
 
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/78d74d7d5a37d74ab216d4e090a343cce23a73fd/images/post%20its.jpg?raw=true)
+
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/78d74d7d5a37d74ab216d4e090a343cce23a73fd/images/lab%20working.jpg?raw=true)
+
 ## Not content with content
 
 Testing identified some strong themes about the current service:
