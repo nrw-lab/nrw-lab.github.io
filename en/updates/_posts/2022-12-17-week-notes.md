@@ -32,7 +32,7 @@ You can [read more about Giles](https://docs.google.com/document/u/0/d/1WseTcTRl
 
 ## We tested the prototype
 
-The other highlight of this week was usability testing - seeing users trying to use our existing service and the prototype.
+The other highlight of this week was usability testing - seeing users trying to use our existing service and the [prototype](https://permissions-prototype.onrender.com/).
 
 We made notes while our 3 testers talked through their experiences of the ‘permissions’ service.
 
@@ -50,7 +50,7 @@ Testing identified some strong themes about the current service:
 
 By testing our prototype, we now have some evidence that interactive content can work well for users. It gives them answers quickly. We could iterate that prototype based on what we’ve learned; keep testing and refining - it’s an approach with lots of potential for NRW’s users.
 
-When we’ve run usability testing over the last 5 years, users have struggled to complete tasks because the content is too detailed and written from an NRW perspective. 
+When we’ve run usability testing over the last 5 years, users have struggled to complete tasks because the [content is too detailed and written from an NRW perspective.](https://digitalpublicservices.gov.wales/waste-not-content-needs-on-a-hazardous-disposals-service/)
 
 ## Time to show and tell
 
@@ -64,4 +64,4 @@ We think it went well. There were some really positive comments and some questio
 
 ## Just an experiment
 
-So, we’ve had space to experiment and work collaboratively to explore a problem in an agile way - in line with the Digital Service Standards for Wales. Together with everything we’ve learned from our awesome speakers, we have tons of energy and renewed enthusiasm. And although the lab and our work with CDPS colleagues on this has ended, we could continue exploring this problem - NRW has the skills to do it! 
+So, we’ve had space to experiment and work collaboratively to explore a problem in an agile way - in line with the [Digital Service Standards for Wales](https://digitalpublicservices.gov.wales/resources/digital-service-standards/). Together with everything we’ve learned from our awesome speakers, we have tons of energy and renewed enthusiasm. And although the lab and our work with CDPS colleagues on this has ended, we could continue exploring this problem - NRW has the skills to do it! 
