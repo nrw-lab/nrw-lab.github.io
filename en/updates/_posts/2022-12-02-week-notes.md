@@ -21,6 +21,7 @@ Richard helped us realise that product ownership is our friend - to make sure th
 ## Exploring some of our challenges
 
 We had tons of NRW user data including call records, user feedback, results of earlier usability testing, emails, heatmaps and analytics. With a wide remit, NRW has lots of areas of work - some overlapping - and lots of challenges for users.
+
 We spent time looking at the data to draw out areas to focus on. We decided to focus on the ‘permission to do something on our land’ service. We knew it is a popular service and had evidence that users struggle to find information and complete applications. It was important we could prototype something within the lab’s timeframe and, compared with other NRW challenges, we felt ’permissions’ was the simpler service to focus on. 
 
 ## Accessibility and inclusive design with Alistair Duggin
