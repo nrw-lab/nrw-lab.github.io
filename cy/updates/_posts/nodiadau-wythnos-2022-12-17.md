@@ -26,17 +26,22 @@ Pan rydyn ni wedi ceisio gweithio nodiadau wythnos a blogiau yn agored yn y gorf
 
 Mae hyn yn rhywbeth rydyn ni wir eisiau ei ymarfer a’i wneud yn rhan o'n gwaith bob dydd. 
 
-Cawson ni hyd yn oed gopi o'i lyfr ffantastig … felly dim esgusodion! 
+Cawson ni hyd yn oed gopi o'i lyfr ffantastig … felly dim esgusodion.
 
-Gallwch chi ddarllen mwy am Giles - ewch ati!
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/bd1b962440b96a3615d0771281c9d2cd10c35aa3/images/giles%20book.jpg?raw=true)
+
+[Gallwch chi ddarllen mwy am Giles](https://gilest.org/) - ewch ati!
 
 ## Fe wnaethon ni brofi'r prototeip
 
-Uchafbwynt arall yr wythnos hon oedd sesiwn profi defnyddioldeb – gweld defnyddwyr yn ceisio defnyddio ein gwasanaeth presennol a'r prototeip.
+Uchafbwynt arall yr wythnos hon oedd sesiwn profi defnyddioldeb – gweld defnyddwyr yn ceisio defnyddio ein gwasanaeth presennol a'r [prototeip](https://permissions-prototype.onrender.com/).
 
 Gwnaethon ni nodiadau tra bu ein tri phrofwr yn siarad am eu profiadau o'r gwasanaeth ‘caniatadau’.
 
 Dywedodd defnyddwyr fod y prototeip yn syml ac yn glir. Dywedon nhw eu bod yn hoffi cael gwybod p’un a oedd angen iddyn nhw wneud cais am ganiatâd. Roedd ganddyn nhw wahanol ddulliau o ddweud wrthyn ni ar ba dir yr oedden nhw am wneud rhywbeth, yn amrywio o gyfeiriadau grid i ‘What 3 Words’ ac roedden nhw’n hoffi'r syniad o fap rhyngweithiol.
+
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/bd1b962440b96a3615d0771281c9d2cd10c35aa3/images/lab%20working.jpg?raw=true)
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/bd1b962440b96a3615d0771281c9d2cd10c35aa3/images/post%20its.jpg?raw=true)
 
 ## Ddim yn fodlon â chynnwys
 
@@ -56,7 +61,9 @@ Pan rydyn ni wedi cynnal profion defnyddioldeb dros y pum mlynedd diwethaf, mae 
 
 Ar ôl wyth diwrnod o ymdrechu’n galed a nodiadau post-it, roedd hi’n amser dangos i bobl beth oedden ni wedi bod yn gweithio arno. Dim ond dwy awr a gawson ni i dynnu popeth at ei gilydd i lunio cyflwyniad ar gyfer Bwrdd Llywodraethu Digidol CNC, felly roedden ni dan bwysau.
 
-Dyma Sam a Lucinda yn gweithio ar y cyflwyniad!
+Dyma Sam a Lucinda yn gweithio ar y cyflwyniad...
+
+![alt text](https://github.com/nrw-lab/nrw-lab.github.io/blob/bd1b962440b96a3615d0771281c9d2cd10c35aa3/images/Sam-Lucinda.jpg?raw=true)
 
 Roedden ni’n falch iawn ac yn nerfus i ddangos ein gwaith. Wedi'n calonogi wrth weld ein tîm cyfan yn ymuno â’r alwad, fe wnaethon ni gyflwyno popeth yr oedden ni wedi'i wneud, gan gynnwys rhai clipiau trawiadol o'r profion defnyddioldeb a siarad am y prototeip.  
 
