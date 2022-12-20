@@ -26,7 +26,7 @@ When we’ve tried to work weeknotes and blogs in the open in the past we have a
 
 This is something we really want to practise and make part of our work every day. 
 
-We even got a copy of his fantastic book….so no excuses! 
+We even got a copy of his fantastic book….so no excuses.
 
 You can [read more about Giles](https://gilest.org/) - go on!
 
