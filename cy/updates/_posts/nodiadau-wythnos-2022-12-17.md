@@ -1,8 +1,8 @@
 ---
-title: Week notes 17/12/2022
+title: Nodiadau wythnos 17/12/2022
 layout: post
-lang: en
-ref: 2022-12-17-week-notes
+lang: cy
+ref: 2022-12-17-nodiadau-wythnos
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
 ---
