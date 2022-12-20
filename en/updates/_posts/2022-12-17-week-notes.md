@@ -64,7 +64,7 @@ After 8 days of blood, sweat and post-it notes, it was time to show people what 
 
 Here’s Sam and Lucinda working on the presentation...
 
-![alt text]((https://github.com/nrw-lab/nrw-lab.github.io/blob/affab53f60de8a2881a3fd8a6330abe0529ce7be/images/Sam-Lucinda.jpg)?raw=true)
+![alt text]((https://github.com/nrw-lab/nrw-lab.github.io/blob/affab53f60de8a2881a3fd8a6330abe0529ce7be/images/Sam-Lucinda.jpg?raw=true)
 
 We were properly proud and nervous to show our work. Buoyed by seeing our whole team dialled in to the call, we presented everything we had done, including some hard hitting clips from the usability testing and talking through the prototype.  
 
