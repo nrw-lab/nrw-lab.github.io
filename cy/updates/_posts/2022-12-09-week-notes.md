@@ -1,7 +1,7 @@
 ---
 title: Nodiadau wythnos 09/12/2022
 layout: post
-lang: en
+lang: cy
 ref: 2022-12-09-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
