@@ -11,7 +11,7 @@ author: Owain, Samantha, Lucinda and Laura
 
 Roedden ni fel plant fore Nadolig pan ymunodd Sarah Winters â ni yn ein Labordy.  
 
-Os nad ydych chi'n adnabod y syfrdanol Sarah Winters, hi ‘ddyfeisiodd’ y ddisgyblaeth o ddylunio cynnwys tra yn gweithio i Wasanaeth Digidol Llywodraeth y DU. Roedden ni wrth ein boddau.
+Os nad ydych chi'n adnabod y syfrdanol Sarah Winters, [hi ‘ddyfeisiodd’ y ddisgyblaeth o ddylunio cynnwys tra yn gweithio i Wasanaeth Digidol Llywodraeth y DU](https://medium.com/ux-and-front-end-interviews/why-content-design-matters-an-interview-with-sarah-richards-a9ad0de3c37a). Roedden ni wrth ein boddau.
 
 Pan ddisgrifiodd Sarah yr hen fodel cyhoeddi yn DirectGov – yr hyn yr oedd y sefydliad am ei ddweud yn hytrach na'r hyn yr oedd angen i ddefnyddwyr ei wybod – ni allen ni fod wedi cytuno mwy! Efallai na fydd gennyn ni wefan 74,000 o dudalennau fel yr oedd gan DirectGov cyn iddi gael ei thrawsnewid yn GOV.UK â’i 3000 tudalen, ond nid yw ein gwefan ni yn bell i ffwrdd – ac mae'n dal i dyfu.  
  
