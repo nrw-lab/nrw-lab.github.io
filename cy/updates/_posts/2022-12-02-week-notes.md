@@ -9,7 +9,7 @@ author: Owain, Samantha, Lucinda and Laura
 
 ## Meddwl am gynnyrch gyda Richard Pope
 
-Ein hail siaradwr gwych oedd Richard Pope. [Gweithiodd Richard fel rheolwr cynnyrch ar gyfer y fersiwn gyntaf o GOV.UK.[(https://richardpope.org/)
+Ein hail siaradwr gwych oedd Richard Pope. [Gweithiodd Richard fel rheolwr cynnyrch ar gyfer y fersiwn gyntaf o GOV.UK.](https://richardpope.org/)
 
 Gan ganolbwyntio ar sut y gwnaethon nhw symud o 74,000 o dudalennau ar DirectGov i 3,000 tudalen sy’n canolbwyntio ar ddefnyddwyr GOV.UK, clywsom fod y tîm wedi gwneud y canlynol:
 
